@@ -18,7 +18,7 @@ The goal of this project is to:
 
 ---
 
-## 🛠️ What I Did
+##  What I Did
 
 ### 1️ Data Cleaning
 - Converted `TotalCharges` to numeric and handled missing values  
@@ -55,9 +55,5 @@ The goal of this project is to:
 
 ---
 
-##  How to Run
 
-1. Clone the repository:  
-```bash
-git clone <your-repo-link>
 
